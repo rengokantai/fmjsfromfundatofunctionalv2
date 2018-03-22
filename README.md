@@ -7,10 +7,10 @@ rules:
 - nonprimitive value passed by reference
 
 dots vs brackets
-Dots | Brackets
---- | ---
-strings| strings
-| numbers
-| variables
-| weird characters
-| expressions
+|Dots|Brackets|
+|---|---|
+strings | strings
+|| numbers|
+| variables|
+|| weird characters|
+|| expressions|
