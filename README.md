@@ -8,9 +8,9 @@ rules:
 
 dots vs brackets  
 |Dots|Brackets|
-|---|---|
+|--- | ---|
 |strings | strings|
 || numbers|
-| variables|
+||variables|
 || weird characters|
 || expressions|
