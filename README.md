@@ -10,7 +10,3 @@ dots vs brackets
 |Dots|Brackets|
 |--- | ---|
 |strings | strings|
-|| numbers|
-||variables|
-|| weird characters|
-|| expressions|
