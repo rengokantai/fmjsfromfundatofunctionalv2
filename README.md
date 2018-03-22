@@ -6,10 +6,10 @@ rules:
 - primitive type passed by value
 - nonprimitive value passed by reference
 
-dots vs brackets
+dots vs brackets  
 |Dots|Brackets|
 |---|---|
-strings | strings
+|strings | strings|
 || numbers|
 | variables|
 || weird characters|
