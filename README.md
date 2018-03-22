@@ -8,7 +8,7 @@ rules:
 
 dots vs brackets
 Dots | Brackets
----|---
+--- | ---
 strings| strings
 | numbers
 | variables
