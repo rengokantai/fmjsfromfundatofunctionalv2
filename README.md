@@ -42,3 +42,4 @@ function foo(){
 ```
 for(let p in obj) obj[prop]
 ```
+
